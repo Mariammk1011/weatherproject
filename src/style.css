@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+}
+
+.search {
+  padding: 50px;
+}
+h1 {
+  color: blue;
+  padding: 10px, 50px;
+  margin-left: 50px;
+}
+h2 {
+  color: rgb(34, 117, 145);
+  padding: 10px, 50px;
+  margin-left: 50px;
+}
+h3 {
+  color: green;
+  padding: 10px, 50px;
+  margin-left: 50px;
+}
+h4 {
+  color: firebrick;
+}
+
+.day-description {
+  text-transform: capitalize;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.day-description {
+  text-transform: capitalize;
+}
+.btn-sucess {
+  background-color: #4caf50;
+  color: white;
+  padding: 5px 10px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
